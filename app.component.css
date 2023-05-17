@@ -1,0 +1,2937 @@
+:host { 
+    display: contents; 
+  }
+  .studentsallstudents-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .studentsallstudents-studentsallstudents {
+    width: 100%;
+    height: 1629px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(240, 241, 243, 1);
+  }
+  .studentsallstudents-rectangle3 {
+    top: 0px;
+    left: 286px;
+    width: 1154px;
+    height: 99px;
+    position: absolute;
+  }
+  .studentsallstudents-keyboardarrowright {
+    top: 202px;
+    left: 378px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-text {
+    top: 151px;
+    left: 315px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text002 {
+    top: 199px;
+    left: 315px;
+    color: rgba(73, 73, 73, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-line5 {
+    top: 184px;
+    left: 315px;
+    width: 45px;
+    height: 1px;
+    position: absolute;
+    box-sizing: content-box;
+  }
+  .studentsallstudents-group18 {
+    top: 28px;
+    left: 1348px;
+    width: 67px;
+    height: 43px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-ellipse10 {
+    top: 0px;
+    left: 0px;
+    width: 43px;
+    height: 43px;
+    position: absolute;
+  }
+  .studentsallstudents-arrowdropdown {
+    top: 9px;
+    left: 43px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-line28 {
+    top: 62px;
+    left: 1331px;
+    width: 25px;
+    height: 1px;
+    position: absolute;
+  }
+  .studentsallstudents-notificationsnone {
+    top: 37px;
+    left: 1290px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+ 
+  .studentsallstudents-text004 {
+    top: 36px;
+    left: 378px;
+    color: rgba(162, 162, 162, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text006 {
+    top: 1587px;
+    left: 315px;
+    color: rgba(0, 0, 0, 0.38999998569488525);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-group11 {
+    top: 38px;
+    left: 1252px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector {
+    top: 4px;
+    left: 2px;
+    width: 20px;
+    height: 16px;
+    position: absolute;
+  }
+  .studentsallstudents-text008 {
+    top: 199px;
+    left: 410px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-rectangle37 {
+    top: 282px;
+    left: 315px;
+    width: 1093px;
+    height: 1263px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .studentsallstudents-rectangle38 {
+    top: 466px;
+    left: 345px;
+    width: 1032px;
+    height: 968px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle39 {
+    top: 466px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle43 {
+    top: 742px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle47 {
+    top: 1156px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle41 {
+    top: 604px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle48 {
+    top: 1018px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle44 {
+    top: 880px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle49 {
+    top: 1294px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle40 {
+    top: 535px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle45 {
+    top: 811px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle50 {
+    top: 1225px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle42 {
+    top: 673px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle51 {
+    top: 1087px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle46 {
+    top: 949px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-rectangle52 {
+    top: 1363px;
+    left: 345px;
+    width: 1032px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(221, 222, 238, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .studentsallstudents-text010 {
+    top: 562px;
+    left: 381px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text012 {
+    top: 562px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text014 {
+    top: 561px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text016 {
+    top: 559px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text018 {
+    top: 835px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text020 {
+    top: 1180px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text022 {
+    top: 697px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text024 {
+    top: 973px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text026 {
+    top: 1318px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text028 {
+    top: 628px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text030 {
+    top: 904px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text032 {
+    top: 1249px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text034 {
+    top: 766px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text036 {
+    top: 1111px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text038 {
+    top: 1042px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text040 {
+    top: 1387px;
+    left: 888px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text042 {
+    top: 841px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text044 {
+    top: 1191px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text046 {
+    top: 701px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text048 {
+    top: 981px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text050 {
+    top: 1331px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text052 {
+    top: 631px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text054 {
+    top: 911px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text056 {
+    top: 1261px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text058 {
+    top: 771px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text060 {
+    top: 1121px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text062 {
+    top: 1051px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text064 {
+    top: 1401px;
+    left: 760px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text066 {
+    top: 562px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text068 {
+    top: 562px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text069 {
+    top: 623px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text070 {
+    top: 697px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text071 {
+    top: 766px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text072 {
+    top: 837px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text073 {
+    top: 904px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text074 {
+    top: 1186px;
+    left: 696px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text075 {
+    top: 970px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text076 {
+    top: 1252px;
+    left: 696px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text077 {
+    top: 1041px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text078 {
+    top: 1323px;
+    left: 696px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text079 {
+    top: 1112px;
+    left: 691px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text080 {
+    top: 1394px;
+    left: 696px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text081 {
+    top: 631px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text083 {
+    top: 700px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text085 {
+    top: 769px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text087 {
+    top: 838px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text089 {
+    top: 907px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text091 {
+    top: 976px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text093 {
+    top: 1045px;
+    left: 571px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text095 {
+    top: 1114px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text097 {
+    top: 1183px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text099 {
+    top: 1252px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text101 {
+    top: 1321px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text103 {
+    top: 1390px;
+    left: 570px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text105 {
+    top: 631px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text107 {
+    top: 700px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text109 {
+    top: 769px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text111 {
+    top: 838px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text113 {
+    top: 907px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text115 {
+    top: 976px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text117 {
+    top: 1045px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text119 {
+    top: 1114px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text121 {
+    top: 1183px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text123 {
+    top: 1252px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text125 {
+    top: 1321px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text127 {
+    top: 1390px;
+    left: 428px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text129 {
+    top: 631px;
+    left: 381px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text131 {
+    top: 700px;
+    left: 381px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text133 {
+    top: 769px;
+    left: 382px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text135 {
+    top: 838px;
+    left: 383px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text137 {
+    top: 907px;
+    left: 382px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text139 {
+    top: 976px;
+    left: 381px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text141 {
+    top: 1045px;
+    left: 383px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text143 {
+    top: 1114px;
+    left: 383px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text145 {
+    top: 1183px;
+    left: 385px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text147 {
+    top: 1252px;
+    left: 383px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text149 {
+    top: 1316px;
+    left: 381px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text151 {
+    top: 1390px;
+    left: 381px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text153 {
+    top: 306px;
+    left: 345px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-rectangle35 {
+    top: 368px;
+    left: 345px;
+    width: 348px;
+    height: 54px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .studentsallstudents-rectangle53 {
+    top: 368px;
+    left: 752px;
+    width: 348px;
+    height: 54px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .studentsallstudents-text155 {
+    top: 383px;
+    left: 363px;
+    color: rgba(117, 117, 117, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text157 {
+    top: 383px;
+    left: 770px;
+    color: rgba(117, 117, 117, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-arrowdropdown1 {
+    top: 383px;
+    left: 1061px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-group19 {
+    top: 368px;
+    left: 1159px;
+    width: 202px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(214, 10, 11, 1);
+  }
+  .studentsallstudents-text159 {
+    top: 12px;
+    left: 62px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-group20 {
+    top: 1460px;
+    left: 1073px;
+    width: 60px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(214, 10, 11, 1);
+  }
+  .studentsallstudents-text161 {
+    top: 10px;
+    left: 28px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-group21 {
+    top: 1460px;
+    left: 1151px;
+    width: 60px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-text162 {
+    top: 10px;
+    left: 24px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-group22 {
+    top: 1460px;
+    left: 1229px;
+    width: 60px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-text163 {
+    top: 10px;
+    left: 24px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text164 {
+    top: 1477px;
+    left: 1309px;
+    color: rgba(115, 115, 115, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text166 {
+    top: 1477px;
+    left: 951px;
+    color: rgba(115, 115, 115, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text168 {
+    top: 488px;
+    left: 384px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text170 {
+    top: 488px;
+    left: 451px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text172 {
+    top: 488px;
+    left: 555px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text174 {
+    top: 488px;
+    left: 672px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text176 {
+    top: 488px;
+    left: 760px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text178 {
+    top: 488px;
+    left: 888px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text180 {
+    top: 488px;
+    left: 1085px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text182 {
+    top: 556px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text184 {
+    top: 556px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text186 {
+    top: 906px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text188 {
+    top: 626px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text190 {
+    top: 976px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text192 {
+    top: 696px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text194 {
+    top: 1046px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text196 {
+    top: 1256px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text198 {
+    top: 766px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text200 {
+    top: 1116px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text202 {
+    top: 1326px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text204 {
+    top: 836px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text206 {
+    top: 1186px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text208 {
+    top: 1396px;
+    left: 1234px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text210 {
+    top: 836px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text212 {
+    top: 1186px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text214 {
+    top: 696px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text216 {
+    top: 976px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text218 {
+    top: 1326px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text220 {
+    top: 626px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text222 {
+    top: 906px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text224 {
+    top: 1256px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text226 {
+    top: 766px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text228 {
+    top: 1116px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text230 {
+    top: 1046px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text232 {
+    top: 1396px;
+    left: 1096px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text234 {
+    top: 488px;
+    left: 1259px;
+    color: rgba(214, 10, 11, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-frame10 {
+    top: 0px;
+    left: 0px;
+    width: 287px;
+    height: 1629px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .studentsallstudents-group178 {
+    top: 0px;
+    left: 0px;
+    width: 287px;
+    height: 1629px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group154 {
+    top: 0px;
+    left: 0px;
+    width: 287px;
+    height: 1629px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group1 {
+    top: 0px;
+    left: 1px;
+    width: 286px;
+    height: 1629px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-rectangle1 {
+    top: 99px;
+    left: 0px;
+    width: 286px;
+    height: 1530px;
+    position: absolute;
+  }
+  .studentsallstudents-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 286px;
+    height: 99px;
+    position: absolute;
+  }
+  .studentsallstudents-group47 {
+    top: 99px;
+    left: 1px;
+    width: 286px;
+    height: 77px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-rectangle5 {
+    top: 71px;
+    left: 0px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text236 {
+    top: 22px;
+    left: 60px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-avtimer {
+    top: 23px;
+    left: 23px;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+  }
+  .studentsallstudents-group46 {
+    top: 439px;
+    left: 1px;
+    width: 286px;
+    height: 77px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-rectangle51 {
+    top: 71px;
+    left: 0px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text238 {
+    top: 23px;
+    left: 60px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-people {
+    top: 25px;
+    left: 26px;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+  }
+  .studentsallstudents-rectangle4 {
+    top: 250px;
+    left: 1px;
+    width: 286px;
+    height: 189px;
+    position: absolute;
+  }
+  .studentsallstudents-rectangle8 {
+    top: 324px;
+    left: 0px;
+    width: 286px;
+    height: 52px;
+    position: absolute;
+  }
+  .studentsallstudents-rectangle9 {
+    top: 381px;
+    left: 0px;
+    width: 286px;
+    height: 52px;
+    position: absolute;
+  }
+  .studentsallstudents-group45 {
+    top: 670px;
+    left: 1px;
+    width: 286px;
+    height: 77px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-rectangle52 {
+    top: 71px;
+    left: 0px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text240 {
+    top: 23px;
+    left: 60px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-openbook11 {
+    top: 22px;
+    left: 23px;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .studentsallstudents-group {
+    top: 3.0681819915771484px;
+    left: 0px;
+    width: 26px;
+    height: 19.86371421813965px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group01 {
+    top: 0px;
+    left: 0px;
+    width: 26px;
+    height: 19.86371421813965px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group02 {
+    top: 0px;
+    left: 0px;
+    width: 26px;
+    height: 19.86371421813965px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector01 {
+    top: 0.00099945068359375px;
+    left: 3.0493569374084473px;
+    width: 9px;
+    height: 19px;
+    position: absolute;
+  }
+  .studentsallstudents-vector02 {
+    top: 0px;
+    left: 13.722357749938965px;
+    width: 9px;
+    height: 19px;
+    position: absolute;
+  }
+  .studentsallstudents-vector03 {
+    top: 3.217442035675049px;
+    left: 15.011941909790039px;
+    width: 11px;
+    height: 17px;
+    position: absolute;
+  }
+  .studentsallstudents-vector04 {
+    top: 3.217442035675049px;
+    left: 0px;
+    width: 11px;
+    height: 17px;
+    position: absolute;
+  }
+  .studentsallstudents-rectangle7 {
+    top: 266px;
+    left: 0px;
+    width: 286px;
+    height: 52px;
+    position: absolute;
+  }
+  .studentsallstudents-rectangle53 {
+    top: 247px;
+    left: 1px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text242 {
+    top: 279px;
+    left: 61px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text244 {
+    top: 392px;
+    left: 61px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-text246 {
+    top: 337px;
+    left: 61px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-keyboardarrowright1 {
+    top: 280px;
+    left: 28px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-keyboardarrowright2 {
+    top: 394px;
+    left: 28px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-keyboardarrowright3 {
+    top: 338px;
+    left: 28px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-group188 {
+    top: 176px;
+    left: 1px;
+    width: 286px;
+    height: 71px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-text248 {
+    top: 23px;
+    left: 60px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-keyboardarrowright4 {
+    top: 23px;
+    left: 267px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-students1 {
+    top: 22px;
+    left: 23px;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .studentsallstudents-group03 {
+    top: 2.127878427505493px;
+    left: 6.239562034606934px;
+    width: 4.21920108795166px;
+    height: 4.219194412231445px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group04 {
+    top: 0px;
+    left: 0px;
+    width: 4.21920108795166px;
+    height: 4.219194412231445px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector05 {
+    top: 0px;
+    left: 0px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .studentsallstudents-group05 {
+    top: 6.428017616271973px;
+    left: 1.172171711921692px;
+    width: 11.477164268493652px;
+    height: 19.572032928466797px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group06 {
+    top: 0px;
+    left: 0px;
+    width: 11.477164268493652px;
+    height: 19.572032928466797px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector06 {
+    top: 0px;
+    left: 0px;
+    width: 11px;
+    height: 20px;
+    position: absolute;
+  }
+  .studentsallstudents-group07 {
+    top: 0px;
+    left: 18.417879104614258px;
+    width: 4.219198226928711px;
+    height: 4.219194412231445px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group08 {
+    top: 0px;
+    left: 0px;
+    width: 4.219198226928711px;
+    height: 4.219194412231445px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector07 {
+    top: 0px;
+    left: 0px;
+    width: 4px;
+    height: 4px;
+    position: absolute;
+  }
+  .studentsallstudents-group09 {
+    top: 4.300037860870361px;
+    left: 13.381060600280762px;
+    width: 11.44670581817627px;
+    height: 19.571990966796875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-group10 {
+    top: 0px;
+    left: 0px;
+    width: 11.44670581817627px;
+    height: 19.571990966796875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector08 {
+    top: 0px;
+    left: 0px;
+    width: 11px;
+    height: 20px;
+    position: absolute;
+  }
+  .studentsallstudents-group43 {
+    top: 593px;
+    left: 1px;
+    width: 286px;
+    height: 77px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-rectangle54 {
+    top: 71px;
+    left: 0px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text250 {
+    top: 26px;
+    left: 60px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-keyboardarrowright5 {
+    top: 26px;
+    left: 243px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-group6 {
+    top: 25px;
+    left: 23px;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector09 {
+    top: 0px;
+    left: 0px;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+  }
+  .studentsallstudents-vector10 {
+    top: 2.03125px;
+    left: 2.5390625px;
+    width: 15px;
+    height: 6px;
+    position: absolute;
+  }
+  .studentsallstudents-vector11 {
+    top: 18.6875px;
+    left: 4.875px;
+    width: 4px;
+    height: 1px;
+    position: absolute;
+  }
+  .studentsallstudents-vector12 {
+    top: 12.796875px;
+    left: 5.12890625px;
+    width: 3px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-vector13 {
+    top: 13.124107360839844px;
+    left: 11.82916259765625px;
+    width: 2px;
+    height: 2px;
+    position: absolute;
+  }
+  .studentsallstudents-vector14 {
+    top: 17.831680297851562px;
+    left: 11.7633056640625px;
+    width: 2px;
+    height: 2px;
+    position: absolute;
+  }
+  .studentsallstudents-group11 {
+    top: 17.72265625px;
+    left: 11.8828125px;
+    width: 2.28515625px;
+    height: 2.69140625px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector15 {
+    top: 0px;
+    left: 0px;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+  }
+  .studentsallstudents-vector16 {
+    top: 1.9296875px;
+    left: 1.5234375px;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+  }
+  .studentsallstudents-vector17 {
+    top: 3.50390625px;
+    left: 13.15234375px;
+    width: 2px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-group42 {
+    top: 516px;
+    left: 1px;
+    width: 286px;
+    height: 77px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-rectangle55 {
+    top: 71px;
+    left: 0px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text252 {
+    top: 23px;
+    left: 60px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-keyboardarrowright6 {
+    top: 26px;
+    left: 243px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .studentsallstudents-vector18 {
+    top: 22.000045776367188px;
+    left: 26.63092041015625px;
+    width: 19px;
+    height: 26px;
+    position: absolute;
+  }
+  .studentsallstudents-group41 {
+    top: 747px;
+    left: 1px;
+    width: 286px;
+    height: 77px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(20, 35, 138, 1);
+  }
+  .studentsallstudents-rectangle56 {
+    top: 71px;
+    left: 0px;
+    width: 286px;
+    height: 3px;
+    position: absolute;
+  }
+  .studentsallstudents-text254 {
+    top: 27px;
+    left: 60px;
+    color: rgba(255, 255, 255, 0.800000011920929);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .studentsallstudents-settings {
+    top: 27px;
+    left: 23px;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+  }
+  .studentsallstudents-group65 {
+    top: 41px;
+    left: 239px;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .studentsallstudents-vector19 {
+    top: 9.5px;
+    left: 4.75px;
+    width: 28px;
+    height: 19px;
+    position: absolute;
+  }
+  .studentsallstudents-whats-app-image20210604at13371 {
+    top: 28px;
+    left: 25px;
+    width: 53px;
+    height: 58px;
+    position: absolute;
+  }
+  
